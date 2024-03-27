@@ -27,15 +27,7 @@ export default function About() {
        <h3><a href="https://sirysiu.github.io/professional-portfolio/">Project 6 </a></h3>
        <img src={project6} alt="project6" />
       </div>
-       <footer>
-  <p>
-    <ul>
-    <li><a href="https://github.com/sirysiu">Github</a></li>
-    <li><a href="www.linkedin.com/in/siry-siu-98b17a298">Linkden</a></li>
-    <li><a href="https://twitter.com/">Twitter</a></li>
-    </ul>
-  </p>
-</footer>
+      
     </div>
   );
 }

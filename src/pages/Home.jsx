@@ -11,15 +11,7 @@ export default function Home() {
         I am in the UNCC Coding Bootcamp. Part time I am a nail technician. I also like to 
         go the gym where it helps me relax in someways and destress.
       </p>
-      <footer>
-  <p>
-    <ul>
-    <li><a href="https://github.com/sirysiu">Github</a></li>
-    <li><a href="www.linkedin.com/in/siry-siu-98b17a298">Linkden</a></li>
-    <li><a href="https://twitter.com/">Twitter</a></li>
-    </ul>
-  </p>
-</footer>
+      
     </div>
     
   );
