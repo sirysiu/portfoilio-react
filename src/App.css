@@ -41,3 +41,46 @@
   color: #888;
 }
 
+body {
+  background-color: lavender;
+  font-size: 25px;
+
+}
+
+
+
+.card {
+  background-image: url(./images/pic.png);
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.card-base {
+  
+  object-fit: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+img {
+  width: 50%;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: darkslateblue;
+  color: white;
+  text-align: center;
+  text-justify: distribute-all-lines;
+}
+
+ul li{
+  display: inline-block;
+  margin-right: 10px;
+}
